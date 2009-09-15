@@ -8,9 +8,6 @@ package de.iritgo.eclipse.tools.preferences;
 
 
 import org.eclipse.core.runtime.preferences.AbstractPreferenceInitializer;
-import org.eclipse.jface.preference.IPreferenceStore;
-
-import de.iritgo.eclipse.tools.IritgoToolsPlugin;
 
 
 /**
